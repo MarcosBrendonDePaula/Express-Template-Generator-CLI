@@ -1,0 +1,19 @@
+{
+  "name": "etg",
+  "version": "1.0.0",
+  "description": "ETG (Express Template Generator), é um gerador de projetos express capaz de gerar templates com módulos já inclusos, buscando assim reduzir a codificação e agilizar o desenvolvimento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosBrendonDePaula/Express-Template-Generator-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosBrendonDePaula/Express-Template-Generator-CLI/issues"
+  },
+  "homepage": "https://github.com/MarcosBrendonDePaula/Express-Template-Generator-CLI#readme"
+}
